@@ -1,4 +1,4 @@
-### Óla Mundo, meu é Felipe Tadeu!  
+### Hello world, my name is Felipe Tadeu!  
 
  <div>
   <a href="https://github.com/felipe-tneves">
@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <!--<img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
 </div>
-<!--  
+<!--
   ##
  
 <div> 
