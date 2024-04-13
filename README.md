@@ -18,7 +18,14 @@
 
 <br>
 
+<div>
+  <h2>🎓 Formação Acadêmica 🎓</h2> 
+    <p>⚙️ Bacharel em Engenharia da Computação - Univercidade Paulista (UNIP)</p> 
+    <p>💻 Técnico em Desenvolvimento de Sistemas - Escola Senai de Informática - Santa Cecília</p> 
+    <p>💻 Técnico em Mecatrônica - Escola Senai Armando de Arruda Pereira - São Caetano do Sul</p> 
+</div>
 
+<br>
 
 <div>
   <h2>:trophy: Certificações</h2>
@@ -39,6 +46,17 @@
     <img width="15%" height="15%"  src="https://images.credly.com/size/680x680/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png">
   </a> 
   
+</div>
+
+<br>
+
+<div>
+  <h2>:mailbox: Como chegar até mim:</h2>
+  <a href="https://docs.microsoft.com/pt-br/users/FelipeTadeu-8432/achievements" target="_blank"><img src="https://img.shields.io/badge/microsoft-%231877F2.svg?&style=for-the-badge&logo=microsoft&color=00a4ef" target="_blank"></a> 
+  <a href="https://discord.gg/G9GPg5SA75" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:felipe.tadeusantos1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipe-tadeu-3a49b5134/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
 </div>
 
 
